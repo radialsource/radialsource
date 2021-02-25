@@ -1,4 +1,4 @@
-### Addition Content
+### Additional Content
 
 [Gist](https://gist.github.com/radialsource)
 | 
